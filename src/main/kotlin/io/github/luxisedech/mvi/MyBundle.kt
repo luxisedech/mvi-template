@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package io.github.luxisedech.mvi
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package io.github.luxisedech.mvi.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import io.github.luxisedech.mvi.MyBundle
 
 class MyProjectService(project: Project) {
 

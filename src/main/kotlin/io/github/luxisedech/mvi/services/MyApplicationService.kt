@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package io.github.luxisedech.mvi.services
 
-import org.jetbrains.plugins.template.MyBundle
+import io.github.luxisedech.mvi.MyBundle
 
 class MyApplicationService {
 

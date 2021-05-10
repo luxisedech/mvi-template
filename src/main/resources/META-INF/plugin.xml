@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>io.github.luxisedech.mvi</id>
-    <name>MVI Fragment</name>
+    <name>Fragment MVI</name>
     <vendor>Luxisedech</vendor>
 
     <!-- Product and plugin compatibility requirements -->

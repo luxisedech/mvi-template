@@ -1,1 +1,1 @@
-rootProject.name = "MVI Fragment"
+rootProject.name = "Fragment MVI"

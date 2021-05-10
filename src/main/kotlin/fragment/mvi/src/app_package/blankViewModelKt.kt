@@ -14,7 +14,7 @@ fun blankViewModelKt(
 
     return """package ${escapeKotlinIdentifier(packageName)}
 
-import $basePackage.common.viewmodels.MVIViewModel
+import $basePackage.common.mvi.MVIViewModel
 import javax.inject.Inject
 
 class $viewModelClass @Inject constructor() :

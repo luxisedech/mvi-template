@@ -17,7 +17,7 @@ fun blankFragmentKt(
 ): String {
 
     return """package ${escapeKotlinIdentifier(packageName)}
-import $basePackage.common.fragments.MVIFragment
+import $basePackage.common.mvi.MVIFragment
 
 ${renderIf(applicationPackage != null) { "import ${applicationPackage}.R" }}
 ${renderIf(applicationPackage != null) { "import ${applicationPackage}.BR" }}

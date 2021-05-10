@@ -12,7 +12,7 @@ fun blankReducerKt(
 
     return """package ${escapeKotlinIdentifier(packageName)}
 
-import $basePackage.common.viewmodels.IReducer
+import $basePackage.common.mvi.IReducer
 
 class $reducerClass : IReducer<$stateClass, $partialStateClass> {
     override fun reduce(state: $stateClass, partialState: $partialStateClass): $stateClass {

@@ -6,7 +6,7 @@ import java.io.File
 val mviFragmentTemplate
     get() = template {
         revision = 2
-        name = "MVI Fragment (with ViewModel)"
+        name = "Fragment (with MVI Bundle)"
         description = "Creates a Fragment with its State, Intent, ViewModel, Reducer and PartialState"
         minApi = 20
         minBuildApi = 20
